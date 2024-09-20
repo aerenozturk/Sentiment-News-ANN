@@ -3,7 +3,7 @@
 
 This repository contains a project that applies artificial neural networks (ANN) to perform sentiment analysis on e-commerce product comments and news categorization. The models were developed using two different datasets, focusing on analyzing sentiments in online comments and categorizing news articles into predefined categories. 
 
-## Project Overview
+## Project Overview (December 2023)
 
 ### 1. **Sentiment Analysis**
    - **Dataset**: The project uses Kaggle's *e-ticaret_urun_comments* dataset, which contains product reviews labeled as:
